@@ -10,3 +10,4 @@ Hello my name is Daniel I am in 10th grade and I am 15 years old. My favorite fo
 ## Collage/ Moodboard
 
 ![This is an image of my collague](IMAGES.png)
+[Me-In-Markdown Playlist](https://open.spotify.com/playlist/3lSDXrrmHyGYhhMyCk6oPy)
